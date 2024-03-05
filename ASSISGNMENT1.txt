@@ -1,0 +1,22 @@
+Challenges of Software Testing using ai
+
+ 1.Lack of Data Quality.
+    High-quality data are essential for the training and performance of AI models.
+    Collecting and managing such data might be difficult, especially for complex software systems. 
+    Testers must often collect data on user interactions, system performance, and defect occurrences.
+    Ensuring the AI model learns the correct patterns requires careful cleaning and accurate data labeling.
+
+ 2.Model Bias.
+    Identifying and rectifying all defects, regardless of their type or severity, is crucial. 
+    However, AI models can introduce bias in various ways, including selecting training data, algorithm choices, and evaluation methods.
+  
+ 3.Cost and Complexity.
+    Adopting AI in software testing may be complicated and expensive in the short term. 
+    Infrastructure and specialist knowledge are necessary.
+    Training and using AI models can be computationally demanding, frequently needing specialized hardware and software resources. 
+    The difficulty grows by the possibility that testers will require training to use AI tools and procedures effectively. 
+    
+ 4.Trust Issue
+    Raising awareness and confidence among testers of AI’s potential and limitations is difficult.
+    Some testers can be reluctant to use AI because they need to understand its operation or doubt its potential.
+    Because of this, informing them of the pros and cons of AI in software testing is crucial, fostering trust and confidence in its use.
